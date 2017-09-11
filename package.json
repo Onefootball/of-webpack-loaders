@@ -1,0 +1,25 @@
+{
+  "name": "of-webpack-loaders",
+  "version": "0.0.1",
+  "description": "A webpack loader which transforms svg file paths into base64 strings",
+  "main": "of-loaders.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrea D. <andrea.dessi@onefootball.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "webpack": "3"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "webpack-loader",
+    "svg",
+    "image",
+    "base64"
+  ],
+  "dependencies": {
+    "svgo": "0.7.2"
+  }
+}
