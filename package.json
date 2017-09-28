@@ -1,6 +1,6 @@
 {
   "name": "@onefootball/of-webpack-loaders",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A webpack loader which transforms svg file paths into base64 strings",
   "main": "of-loaders.js",
   "repository": {
